@@ -1,0 +1,16 @@
+C:\Users\Harsh\Desktop\Numbers-QuickStart\bin\Debug\net5.0\Numbers-QuickStart.exe
+C:\Users\Harsh\Desktop\Numbers-QuickStart\bin\Debug\net5.0\Numbers-QuickStart.deps.json
+C:\Users\Harsh\Desktop\Numbers-QuickStart\bin\Debug\net5.0\Numbers-QuickStart.runtimeconfig.json
+C:\Users\Harsh\Desktop\Numbers-QuickStart\bin\Debug\net5.0\Numbers-QuickStart.runtimeconfig.dev.json
+C:\Users\Harsh\Desktop\Numbers-QuickStart\bin\Debug\net5.0\Numbers-QuickStart.dll
+C:\Users\Harsh\Desktop\Numbers-QuickStart\bin\Debug\net5.0\ref\Numbers-QuickStart.dll
+C:\Users\Harsh\Desktop\Numbers-QuickStart\bin\Debug\net5.0\Numbers-QuickStart.pdb
+C:\Users\Harsh\Desktop\Numbers-QuickStart\obj\Debug\net5.0\Numbers-QuickStart.csproj.AssemblyReference.cache
+C:\Users\Harsh\Desktop\Numbers-QuickStart\obj\Debug\net5.0\Numbers-QuickStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harsh\Desktop\Numbers-QuickStart\obj\Debug\net5.0\Numbers-QuickStart.AssemblyInfoInputs.cache
+C:\Users\Harsh\Desktop\Numbers-QuickStart\obj\Debug\net5.0\Numbers-QuickStart.AssemblyInfo.cs
+C:\Users\Harsh\Desktop\Numbers-QuickStart\obj\Debug\net5.0\Numbers-QuickStart.csproj.CoreCompileInputs.cache
+C:\Users\Harsh\Desktop\Numbers-QuickStart\obj\Debug\net5.0\Numbers-QuickStart.dll
+C:\Users\Harsh\Desktop\Numbers-QuickStart\obj\Debug\net5.0\ref\Numbers-QuickStart.dll
+C:\Users\Harsh\Desktop\Numbers-QuickStart\obj\Debug\net5.0\Numbers-QuickStart.pdb
+C:\Users\Harsh\Desktop\Numbers-QuickStart\obj\Debug\net5.0\Numbers-QuickStart.genruntimeconfig.cache
